@@ -168,7 +168,7 @@ li {
     display: inline-block;
     padding-top:32px;
     padding-bottom:32px;
-    margin-left:30px;  
+    margin-left: 30px;  
 }
 
 .cont .link {
@@ -187,9 +187,12 @@ li {
 
 
 .media-contacts {
-   margin-right:10px;
-   fill: currentColor;
-   display:;
+  margin: 0;
+  margin-right:10px;
+  fill: currentColor;
+  transform: translateY(20%);
+ 
+   
 }
 
              /* Main */
@@ -451,8 +454,9 @@ fill:var(--accent-color);
   line-height:1.71;
   letter-spacing:0.03em;
   margin-bottom:9px; 
+  
 }
-.contact-link:last-child {
+.contact-link:last-child{
   margin-bottom: 0;
 }
 
