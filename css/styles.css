@@ -465,7 +465,10 @@ fill:var(--accent-color);
   margin-bottom: 9px; 
   
 }
-.contact-link:last-child{
+.footer-list li {
+  margin-bottom: 9px;
+}
+.footer-list li:last-child {
   margin-bottom:0;
 }
 
@@ -492,7 +495,7 @@ fill:var(--accent-color);
 
 
 .footer-social-title{
-  font-family: "Roboto";
+  font-family:"Roboto";
   font-style: normal;
   font-weight: 700;
   font-size: 14px;
@@ -536,7 +539,7 @@ fill:var(--accent-color);
 
 
 
-             
+
 
 .button-primary {
   font-family: Roboto;
