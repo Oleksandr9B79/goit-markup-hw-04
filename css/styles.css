@@ -467,7 +467,7 @@ fill:var(--accent-color);
 .footer-list{
   margin-top: 20px;
 }
-/* ///////////////////////////// */
+
 .contact-line{
   display: flex;
 }
@@ -517,37 +517,6 @@ fill:var(--accent-color);
 .footer-icon {
   fill: var(--background-position);
 }
-
-
-
-/* .social-thumb {
-  margin-left: 70px;
-  display: flex;
-}
-
-.footer-social-title {
-  font-size: 14px;
-  font-family: "Roboto";
-  font-weight: 700;
-  line-height: 1.14;
-  text-transform: uppercase;
-  color: var(--background-position);
-  margin-bottom: 20px;
-}
-.footer-social-link {
-  display: flex;
-  height: 44px;
-  align-items: baseline;
-  justify-content: center;
-}
-.footer-social-link:not(:last-child) {
-  margin-right: 10px;
-} */
-
-
-
-
-
 
              /* Portfolio */
 
